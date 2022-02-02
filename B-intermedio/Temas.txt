@@ -1,0 +1,6 @@
+Headers
+Funciones
+Punteros
+Arreglos
+Gestión dinámica de la memoria
+

@@ -1,0 +1,5 @@
+Declaración de variables
+Estructuras de control
+Estructuras repetitivas
+Entrada y salida de datos
+Estructuras de repetición
